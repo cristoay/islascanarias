@@ -1,0 +1,26 @@
+#contenedor{
+    height: 600px;
+    width: 800px;
+    
+    float: left;
+}
+#imagenes{
+    height: 200px;
+    width: 800px;
+    
+    float: left;
+}
+
+.ui-droppable{
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    margin: 10px;
+    float: left;
+}
+.trajes{
+    height: 60px;
+    width: 60px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
